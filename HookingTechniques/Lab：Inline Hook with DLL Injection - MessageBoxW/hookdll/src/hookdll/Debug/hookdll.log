@@ -1,0 +1,5 @@
+﻿  hookdll.cpp
+D:\All_In_One\AllAboutLearning\others\加密与解密第四版\系統篇\Hook 技術\Hook 概述\Lab：Inline Hook with DLL Injection - MessageBoxW\hookdll\src\hookdll.cpp(5,23): warning C4838: 從 'int' 到 'char' 的轉換必須是縮小轉換
+D:\All_In_One\AllAboutLearning\others\加密与解密第四版\系統篇\Hook 技術\Hook 概述\Lab：Inline Hook with DLL Injection - MessageBoxW\hookdll\src\hookdll.cpp(5,23): warning C4309: '正在初始化': 轉換導致常數值遭截斷; 可能需要使用較大的類型
+D:\All_In_One\AllAboutLearning\others\加密与解密第四版\系統篇\Hook 技術\Hook 概述\Lab：Inline Hook with DLL Injection - MessageBoxW\hookdll\src\hookdll.cpp(55,1): warning C4715: 'InitHook': 不是所有控制路徑都傳回值
+  hookdll.vcxproj -> D:\All_In_One\AllAboutLearning\others\加密与解密第四版\系統篇\Hook 技術\Hook 概述\Lab：Inline Hook with DLL Injection - MessageBoxW\hookdll\src\Debug\hookdll.dll
